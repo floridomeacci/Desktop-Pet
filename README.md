@@ -1,10 +1,10 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/floridomeacci/tbwa-backslash-generator -->
+<!-- Improved compatibility of back to top link: See: https://github.com/floridomeacci/Desktop-Pet -->
 <a name="readme-top"></a>
 <!--
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/floridomeacci/tbwa-backslash-generator">
+  <a href="https://github.com/floridomeacci/Desktop-Pet">
     <img src="https://github.com/floridomeacci/Desktop-Pet/assets/28354552/673af905-4979-4dc1-85be-83965a8d1ec2" alt="TBWA Backslash Generator" width="200" height="100%">
   </a>
 
@@ -23,37 +23,31 @@ This project is almost entirely coded by ChatGPT with me at the steering wheel, 
 
 <br>
 
-Start screen:
+Starting position:
 
-![Product Name Screen Shot 1](images/Screenshot%202024-03-31%20at%2010.53.23.png)
+![Product Name Screen Shot 1](https://github.com/floridomeacci/Desktop-Pet/assets/28354552/605b1548-c748-438b-9e6b-89e3666dd479)
 
-Options menu:
+The pet is draggable:
 
-![Product Name Screen Shot 2](images/Screenshot%202024-03-31%20at%2010.53.02.png)
+![Product Name Screen Shot 2](https://github.com/floridomeacci/Desktop-Pet/assets/28354552/73004ea0-36c6-4a3e-8965-d105f628e979)
 
-Load screen, followed by a percentage loader:
+Occasional tip:
 
-![Product Name Screen Shot 3](images/Screenshot%202024-03-31%20at%2010.53.38.png)
+![Product Name Screen Shot 3](https://github.com/floridomeacci/Desktop-Pet/assets/28354552/80d7014e-77f1-4d23-9859-7fe30a409e0e)
 
-End result:
-
-![Product Name Screen Shot 4](images/Screenshot%202024-03-31%20at%2010.54.03.png)
-
-The uploaded code to github is 90% completed. TBWA has strict security protocals, this meant rewriting the code to work with their wordpress environment. I'm still working on some final issues and features but my time is limited as since I'm doing this in my spare time. 
 
 <!-- BUILT WITH -->
 ## Built With
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 <!-- CONTACT -->
 ## Contact
 
 Florido Meacci - meacciflorido@gmail.com
 
-Project Link: [https://github.com/floridomeacci/TBWA-backslash-generator](https://github.com/floridomeacci/TBWA-backslash-generator)
+Project Link: [https://github.com/floridomeacci/Desktop-Pet](https://github.com/floridomeacci/Desktop-Pet)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

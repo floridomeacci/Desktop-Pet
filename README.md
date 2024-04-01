@@ -1,5 +1,6 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/floridomeacci/Desktop-Pet -->
+<!-- Improved compatibility of "Back to Top" link: See: https://github.com/floridomeacci/Desktop-Pet -->
 <a name="readme-top"></a>
+
 <!--
 <!-- PROJECT LOGO -->
 <br />
@@ -11,7 +12,7 @@
   <h3 align="center">TBWA Desktop Pet</h3>
 
   <p align="center">
-    At TBWA I've been working on my own personal productivity tool that sits on top of my screen and provides useful tips and insights. Grossly inspired by the famous Clippy, bordering on the edge of copyright infringement.
+    At TBWA, I've been working on a personal productivity tool that sits atop my screen, providing useful tips and insights. Inspired by the famous Clippy, it teeters on the edge of copyright infringement.
     <br />
   </p>
 </div>
@@ -19,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is almost entirely coded by ChatGPT with me at the steering wheel, where as the 3D artwork is done by me. I wanted to see if I could create something trivial such as a desktop pet using ChatGPT. The pet is draggable and sits infront of other windows. Every now and then the pet gives a tip in the style of Clippy. 
+This project was almost entirely coded by ChatGPT, with me at the helm, while the 3D artwork was created by me. I aimed to see if it was feasible to create something as whimsical as a desktop pet using ChatGPT. The pet is draggable and remains in front of other windows. Periodically, the pet offers a tip, reminiscent of Clippy's style.
 
 <br>
 
@@ -35,12 +36,10 @@ Occasional tip:
 
 ![Product Name Screen Shot 3](https://github.com/floridomeacci/Desktop-Pet/assets/28354552/80d7014e-77f1-4d23-9859-7fe30a409e0e)
 
-
 <!-- BUILT WITH -->
 ## Built With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 <!-- CONTACT -->
 ## Contact
